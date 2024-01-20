@@ -8,7 +8,7 @@ load_dotenv()
 API_KEY = os.environ.get('API_KEY')
 password = os.environ.get('PASSWORD')
 app = Flask(__name__)
-my_email = "comedycorner09@gmail.com"
+
 PORT = 587
 
 
